@@ -1,6 +1,6 @@
 ## BYOM リモート推論
 ### データの準備とモデルの学習
-リモート推論を実施するために、SageMaker Notebook インスタンスを使って、データの準備やモデルの学習、推論エンドポイントを作成します。詳細は [こちら](https://github.com/tkazusa/Redshift-ML-practice/blob/master/multi_classification/redshift_ml_byom_customer_churn.ipynb) のノートブックをご確認下さい。
+リモート推論を実施するために、SageMaker Notebook インスタンスを使って、データの準備やモデルの学習、推論エンドポイントを作成します。詳細は [こちら](https://github.com/tkazusa/Redshift-ML-practice/blob/main/binaly_classification_xgboost_byom/redshift_ml_byom_customer_churn.ipynb) のノートブックをご確認下さい。
 
 
 ### 推論用データのためにテーブルを作成
